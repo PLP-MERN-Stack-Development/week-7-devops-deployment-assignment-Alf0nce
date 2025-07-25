@@ -1,0 +1,6 @@
+{
+	"devDependencies": {
+		"@loadable/component": "^5.16.7",
+		"webpack-bundle-analyzer": "^4.10.2"
+	}
+}
